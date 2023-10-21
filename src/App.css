@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.navbar {
+  background-color: #61dafb;
+}
+.main-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+.container {
+  width: 23%;
+}
+.ModalComp {
+  margin-bottom: 5px;
+}
