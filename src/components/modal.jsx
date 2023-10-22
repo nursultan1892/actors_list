@@ -40,7 +40,7 @@ function ModalComp(props) {
             Do Something
           </Button>{" "}
           <Button color="secondary" onClick={toggle}>
-            Cancel
+            Cancel All
           </Button>
         </ModalFooter>
       </Modal>
